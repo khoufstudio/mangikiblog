@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>mang iki blog</title>
+    <link href="https://khoufstudio.github.io/mangikiblog/feed.xml" rel="self" />
+    <link href="https://khoufstudio.github.io/mangikiblog" />
+    <updated>2023-05-04T10:26:18+07:00</updated>
+    <author>
+        <name>mang iki</name>
+    </author>
+    <id>https://khoufstudio.github.io/mangikiblog</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>mang iki</name>
+        </author>
+        <link href="https://khoufstudio.github.io/mangikiblog/test.html"/>
+        <id>https://khoufstudio.github.io/mangikiblog/test.html</id>
+
+        <updated>2023-05-04T10:26:18+07:00</updated>
+            <summary>
+                <![CDATA[
+                    safdsfdsf sdfsdf sdfdsf
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="color: #000000;"><strong>safdsfdsf</strong></span></p>
+<p><span style="color: #000000;"><strong>sdfsdf</strong></span></p>
+<p> </p>
+<p> </p>
+<p class="align-center"><span style="color: #000000;">sdfdsf</span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>judul</title>
+        <author>
+            <name>mang iki</name>
+        </author>
+        <link href="https://khoufstudio.github.io/mangikiblog/judul.html"/>
+        <id>https://khoufstudio.github.io/mangikiblog/judul.html</id>
+
+        <updated>2023-05-04T10:24:07+07:00</updated>
+            <summary>
+                <![CDATA[
+                    isi
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>isi</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hello World</title>
+        <author>
+            <name>mang iki</name>
+        </author>
+        <link href="https://khoufstudio.github.io/mangikiblog/hello-world.html"/>
+        <id>https://khoufstudio.github.io/mangikiblog/hello-world.html</id>
+
+        <updated>2023-05-04T10:12:25+07:00</updated>
+            <summary>
+                <![CDATA[
+                    alhamdulillah bisa nulis disini
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>alhamdulillah bisa nulis disini</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

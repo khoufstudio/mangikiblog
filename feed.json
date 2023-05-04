@@ -1,0 +1,55 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "mang iki blog",
+    "description": "",
+    "home_page_url": "https://khoufstudio.github.io/mangikiblog",
+    "feed_url": "https://khoufstudio.github.io/mangikiblog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "mang iki"
+    },
+    "items": [
+        {
+            "id": "https://khoufstudio.github.io/mangikiblog/test.html",
+            "url": "https://khoufstudio.github.io/mangikiblog/test.html",
+            "title": "test",
+            "summary": "safdsfdsf sdfsdf sdfdsf",
+            "content_html": "<p><span style=\"color: #000000;\"><strong>safdsfdsf</strong></span></p>\n<p><span style=\"color: #000000;\"><strong>sdfsdf</strong></span></p>\n<p> </p>\n<p> </p>\n<p class=\"align-center\"><span style=\"color: #000000;\">sdfdsf</span></p>",
+            "author": {
+                "name": "mang iki"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-04T10:26:18+07:00",
+            "date_modified": "2023-05-04T10:26:18+07:00"
+        },
+        {
+            "id": "https://khoufstudio.github.io/mangikiblog/judul.html",
+            "url": "https://khoufstudio.github.io/mangikiblog/judul.html",
+            "title": "judul",
+            "summary": "isi",
+            "content_html": "<p>isi</p>",
+            "author": {
+                "name": "mang iki"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-04T10:24:07+07:00",
+            "date_modified": "2023-05-04T10:24:07+07:00"
+        },
+        {
+            "id": "https://khoufstudio.github.io/mangikiblog/hello-world.html",
+            "url": "https://khoufstudio.github.io/mangikiblog/hello-world.html",
+            "title": "Hello World",
+            "summary": "alhamdulillah bisa nulis disini",
+            "content_html": "<p>alhamdulillah bisa nulis disini</p>",
+            "author": {
+                "name": "mang iki"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-04T10:12:25+07:00",
+            "date_modified": "2023-05-04T10:12:25+07:00"
+        }
+    ]
+}
