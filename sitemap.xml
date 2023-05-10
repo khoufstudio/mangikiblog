@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://khoufstudio.github.io/mangikiblog/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://mangkiki.my.id/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://khoufstudio.github.io/mangikiblog/</loc>
+<loc>http://mangkiki.my.id/</loc>
 </url>
 <url>
-<loc>https://khoufstudio.github.io/mangikiblog/artikel-baru.html</loc>
+<loc>http://mangkiki.my.id/artikel-baru.html</loc>
 <lastmod>2023-05-10T15:57:08+07:00</lastmod>
 </url>
 <url>
-<loc>https://khoufstudio.github.io/mangikiblog/hello-world.html</loc>
+<loc>http://mangkiki.my.id/hello-world.html</loc>
 <lastmod>2023-05-04T10:12:25+07:00</lastmod>
 </url>
 <url>
-<loc>https://khoufstudio.github.io/mangikiblog/judul.html</loc>
+<loc>http://mangkiki.my.id/judul.html</loc>
 <lastmod>2023-05-04T10:24:07+07:00</lastmod>
 </url>
 <url>
-<loc>https://khoufstudio.github.io/mangikiblog/test.html</loc>
+<loc>http://mangkiki.my.id/test.html</loc>
 <lastmod>2023-05-04T10:26:18+07:00</lastmod>
 </url>
 </urlset>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>mang iki blog</title>
-    <link href="https://khoufstudio.github.io/mangikiblog/feed.xml" rel="self" />
-    <link href="https://khoufstudio.github.io/mangikiblog" />
+    <link href="http://mangkiki.my.id/feed.xml" rel="self" />
+    <link href="http://mangkiki.my.id" />
     <updated>2023-05-10T15:57:08+07:00</updated>
     <author>
         <name>mang iki</name>
     </author>
-    <id>https://khoufstudio.github.io/mangikiblog</id>
+    <id>http://mangkiki.my.id</id>
 
     <entry>
         <title>artikel baru</title>
         <author>
             <name>mang iki</name>
         </author>
-        <link href="https://khoufstudio.github.io/mangikiblog/artikel-baru.html"/>
-        <id>https://khoufstudio.github.io/mangikiblog/artikel-baru.html</id>
+        <link href="http://mangkiki.my.id/artikel-baru.html"/>
+        <id>http://mangkiki.my.id/artikel-baru.html</id>
 
         <updated>2023-05-10T15:57:08+07:00</updated>
             <summary>
@@ -34,8 +34,8 @@
         <author>
             <name>mang iki</name>
         </author>
-        <link href="https://khoufstudio.github.io/mangikiblog/test.html"/>
-        <id>https://khoufstudio.github.io/mangikiblog/test.html</id>
+        <link href="http://mangkiki.my.id/test.html"/>
+        <id>http://mangkiki.my.id/test.html</id>
 
         <updated>2023-05-04T10:26:18+07:00</updated>
             <summary>
@@ -58,8 +58,8 @@
         <author>
             <name>mang iki</name>
         </author>
-        <link href="https://khoufstudio.github.io/mangikiblog/judul.html"/>
-        <id>https://khoufstudio.github.io/mangikiblog/judul.html</id>
+        <link href="http://mangkiki.my.id/judul.html"/>
+        <id>http://mangkiki.my.id/judul.html</id>
 
         <updated>2023-05-04T10:24:07+07:00</updated>
             <summary>
@@ -78,8 +78,8 @@
         <author>
             <name>mang iki</name>
         </author>
-        <link href="https://khoufstudio.github.io/mangikiblog/hello-world.html"/>
-        <id>https://khoufstudio.github.io/mangikiblog/hello-world.html</id>
+        <link href="http://mangkiki.my.id/hello-world.html"/>
+        <id>http://mangkiki.my.id/hello-world.html</id>
 
         <updated>2023-05-04T10:12:25+07:00</updated>
             <summary>

@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "mang iki blog",
     "description": "",
-    "home_page_url": "https://khoufstudio.github.io/mangikiblog",
-    "feed_url": "https://khoufstudio.github.io/mangikiblog/feed.json",
+    "home_page_url": "http://mangkiki.my.id",
+    "feed_url": "http://mangkiki.my.id/feed.json",
     "user_comment": "",
     "author": {
         "name": "mang iki"
     },
     "items": [
         {
-            "id": "https://khoufstudio.github.io/mangikiblog/artikel-baru.html",
-            "url": "https://khoufstudio.github.io/mangikiblog/artikel-baru.html",
+            "id": "http://mangkiki.my.id/artikel-baru.html",
+            "url": "http://mangkiki.my.id/artikel-baru.html",
             "title": "artikel baru",
             "summary": "artikel baru",
             "content_html": "<p>artikel baru</p>",
@@ -24,8 +24,8 @@
             "date_modified": "2023-05-10T15:57:08+07:00"
         },
         {
-            "id": "https://khoufstudio.github.io/mangikiblog/test.html",
-            "url": "https://khoufstudio.github.io/mangikiblog/test.html",
+            "id": "http://mangkiki.my.id/test.html",
+            "url": "http://mangkiki.my.id/test.html",
             "title": "test",
             "summary": "safdsfdsf sdfsdf sdfdsf",
             "content_html": "<p><span style=\"color: #000000;\"><strong>safdsfdsf</strong></span></p>\n<p><span style=\"color: #000000;\"><strong>sdfsdf</strong></span></p>\n<p> </p>\n<p> </p>\n<p class=\"align-center\"><span style=\"color: #000000;\">sdfdsf</span></p>",
@@ -38,8 +38,8 @@
             "date_modified": "2023-05-04T10:26:18+07:00"
         },
         {
-            "id": "https://khoufstudio.github.io/mangikiblog/judul.html",
-            "url": "https://khoufstudio.github.io/mangikiblog/judul.html",
+            "id": "http://mangkiki.my.id/judul.html",
+            "url": "http://mangkiki.my.id/judul.html",
             "title": "judul",
             "summary": "isi",
             "content_html": "<p>isi</p>",
@@ -52,8 +52,8 @@
             "date_modified": "2023-05-04T10:24:07+07:00"
         },
         {
-            "id": "https://khoufstudio.github.io/mangikiblog/hello-world.html",
-            "url": "https://khoufstudio.github.io/mangikiblog/hello-world.html",
+            "id": "http://mangkiki.my.id/hello-world.html",
+            "url": "http://mangkiki.my.id/hello-world.html",
             "title": "Hello World",
             "summary": "alhamdulillah bisa nulis disini",
             "content_html": "<p>alhamdulillah bisa nulis disini</p>",
