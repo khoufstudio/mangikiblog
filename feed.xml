@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>mang iki blog</title>
-    <link href="http://mangkiki.my.id/feed.xml" rel="self" />
-    <link href="http://mangkiki.my.id" />
+    <link href="https://mangkiki.my.id/feed.xml" rel="self" />
+    <link href="https://mangkiki.my.id" />
     <updated>2023-05-10T16:02:16+07:00</updated>
     <author>
         <name>mang iki</name>
     </author>
-    <id>http://mangkiki.my.id</id>
+    <id>https://mangkiki.my.id</id>
 
     <entry>
         <title>artikel baru lagi</title>
         <author>
             <name>mang iki</name>
         </author>
-        <link href="http://mangkiki.my.id/artikel-baru-lagi.html"/>
-        <id>http://mangkiki.my.id/artikel-baru-lagi.html</id>
+        <link href="https://mangkiki.my.id/artikel-baru-lagi.html"/>
+        <id>https://mangkiki.my.id/artikel-baru-lagi.html</id>
 
         <updated>2023-05-10T16:02:16+07:00</updated>
             <summary>
@@ -25,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="http://mangkiki.my.id/media/posts/5/addidas.jpeg" alt="" width="148" height="148" sizes="100vw" srcset="http://mangkiki.my.id/media/posts/5/responsive/addidas-xs.jpeg 300w ,http://mangkiki.my.id/media/posts/5/responsive/addidas-sm.jpeg 480w ,http://mangkiki.my.id/media/posts/5/responsive/addidas-md.jpeg 768w ,http://mangkiki.my.id/media/posts/5/responsive/addidas-lg.jpeg 1024w ,http://mangkiki.my.id/media/posts/5/responsive/addidas-xl.jpeg 1360w ,http://mangkiki.my.id/media/posts/5/responsive/addidas-2xl.jpeg 1600w"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://mangkiki.my.id/media/posts/5/addidas.jpeg" alt="" width="148" height="148" sizes="100vw" srcset="https://mangkiki.my.id/media/posts/5/responsive/addidas-xs.jpeg 300w ,https://mangkiki.my.id/media/posts/5/responsive/addidas-sm.jpeg 480w ,https://mangkiki.my.id/media/posts/5/responsive/addidas-md.jpeg 768w ,https://mangkiki.my.id/media/posts/5/responsive/addidas-lg.jpeg 1024w ,https://mangkiki.my.id/media/posts/5/responsive/addidas-xl.jpeg 1360w ,https://mangkiki.my.id/media/posts/5/responsive/addidas-2xl.jpeg 1600w"></figure>
 <p> </p>
 <p>artikel baru</p>
             ]]>
@@ -36,8 +36,8 @@
         <author>
             <name>mang iki</name>
         </author>
-        <link href="http://mangkiki.my.id/artikel-baru.html"/>
-        <id>http://mangkiki.my.id/artikel-baru.html</id>
+        <link href="https://mangkiki.my.id/artikel-baru.html"/>
+        <id>https://mangkiki.my.id/artikel-baru.html</id>
 
         <updated>2023-05-10T15:57:08+07:00</updated>
             <summary>
@@ -56,8 +56,8 @@
         <author>
             <name>mang iki</name>
         </author>
-        <link href="http://mangkiki.my.id/test.html"/>
-        <id>http://mangkiki.my.id/test.html</id>
+        <link href="https://mangkiki.my.id/test.html"/>
+        <id>https://mangkiki.my.id/test.html</id>
 
         <updated>2023-05-04T10:26:18+07:00</updated>
             <summary>
@@ -80,8 +80,8 @@
         <author>
             <name>mang iki</name>
         </author>
-        <link href="http://mangkiki.my.id/judul.html"/>
-        <id>http://mangkiki.my.id/judul.html</id>
+        <link href="https://mangkiki.my.id/judul.html"/>
+        <id>https://mangkiki.my.id/judul.html</id>
 
         <updated>2023-05-04T10:24:07+07:00</updated>
             <summary>
@@ -100,8 +100,8 @@
         <author>
             <name>mang iki</name>
         </author>
-        <link href="http://mangkiki.my.id/hello-world.html"/>
-        <id>http://mangkiki.my.id/hello-world.html</id>
+        <link href="https://mangkiki.my.id/hello-world.html"/>
+        <id>https://mangkiki.my.id/hello-world.html</id>
 
         <updated>2023-05-04T10:12:25+07:00</updated>
             <summary>

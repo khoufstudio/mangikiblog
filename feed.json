@@ -2,19 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "mang iki blog",
     "description": "",
-    "home_page_url": "http://mangkiki.my.id",
-    "feed_url": "http://mangkiki.my.id/feed.json",
+    "home_page_url": "https://mangkiki.my.id",
+    "feed_url": "https://mangkiki.my.id/feed.json",
     "user_comment": "",
     "author": {
         "name": "mang iki"
     },
     "items": [
         {
-            "id": "http://mangkiki.my.id/artikel-baru-lagi.html",
-            "url": "http://mangkiki.my.id/artikel-baru-lagi.html",
+            "id": "https://mangkiki.my.id/artikel-baru-lagi.html",
+            "url": "https://mangkiki.my.id/artikel-baru-lagi.html",
             "title": "artikel baru lagi",
             "summary": "artikel baru",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"http://mangkiki.my.id/media/posts/5/addidas.jpeg\" alt=\"\" width=\"148\" height=\"148\" sizes=\"100vw\" srcset=\"http://mangkiki.my.id/media/posts/5/responsive/addidas-xs.jpeg 300w ,http://mangkiki.my.id/media/posts/5/responsive/addidas-sm.jpeg 480w ,http://mangkiki.my.id/media/posts/5/responsive/addidas-md.jpeg 768w ,http://mangkiki.my.id/media/posts/5/responsive/addidas-lg.jpeg 1024w ,http://mangkiki.my.id/media/posts/5/responsive/addidas-xl.jpeg 1360w ,http://mangkiki.my.id/media/posts/5/responsive/addidas-2xl.jpeg 1600w\"></figure>\n<p> </p>\n<p>artikel baru</p>",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://mangkiki.my.id/media/posts/5/addidas.jpeg\" alt=\"\" width=\"148\" height=\"148\" sizes=\"100vw\" srcset=\"https://mangkiki.my.id/media/posts/5/responsive/addidas-xs.jpeg 300w ,https://mangkiki.my.id/media/posts/5/responsive/addidas-sm.jpeg 480w ,https://mangkiki.my.id/media/posts/5/responsive/addidas-md.jpeg 768w ,https://mangkiki.my.id/media/posts/5/responsive/addidas-lg.jpeg 1024w ,https://mangkiki.my.id/media/posts/5/responsive/addidas-xl.jpeg 1360w ,https://mangkiki.my.id/media/posts/5/responsive/addidas-2xl.jpeg 1600w\"></figure>\n<p> </p>\n<p>artikel baru</p>",
             "author": {
                 "name": "mang iki"
             },
@@ -24,8 +24,8 @@
             "date_modified": "2023-05-10T16:02:16+07:00"
         },
         {
-            "id": "http://mangkiki.my.id/artikel-baru.html",
-            "url": "http://mangkiki.my.id/artikel-baru.html",
+            "id": "https://mangkiki.my.id/artikel-baru.html",
+            "url": "https://mangkiki.my.id/artikel-baru.html",
             "title": "artikel baru",
             "summary": "artikel baru",
             "content_html": "<p>artikel baru</p>",
@@ -38,8 +38,8 @@
             "date_modified": "2023-05-10T15:57:08+07:00"
         },
         {
-            "id": "http://mangkiki.my.id/test.html",
-            "url": "http://mangkiki.my.id/test.html",
+            "id": "https://mangkiki.my.id/test.html",
+            "url": "https://mangkiki.my.id/test.html",
             "title": "test",
             "summary": "safdsfdsf sdfsdf sdfdsf",
             "content_html": "<p><span style=\"color: #000000;\"><strong>safdsfdsf</strong></span></p>\n<p><span style=\"color: #000000;\"><strong>sdfsdf</strong></span></p>\n<p> </p>\n<p> </p>\n<p class=\"align-center\"><span style=\"color: #000000;\">sdfdsf</span></p>",
@@ -52,8 +52,8 @@
             "date_modified": "2023-05-04T10:26:18+07:00"
         },
         {
-            "id": "http://mangkiki.my.id/judul.html",
-            "url": "http://mangkiki.my.id/judul.html",
+            "id": "https://mangkiki.my.id/judul.html",
+            "url": "https://mangkiki.my.id/judul.html",
             "title": "judul",
             "summary": "isi",
             "content_html": "<p>isi</p>",
@@ -66,8 +66,8 @@
             "date_modified": "2023-05-04T10:24:07+07:00"
         },
         {
-            "id": "http://mangkiki.my.id/hello-world.html",
-            "url": "http://mangkiki.my.id/hello-world.html",
+            "id": "https://mangkiki.my.id/hello-world.html",
+            "url": "https://mangkiki.my.id/hello-world.html",
             "title": "Hello World",
             "summary": "alhamdulillah bisa nulis disini",
             "content_html": "<p>alhamdulillah bisa nulis disini</p>",
