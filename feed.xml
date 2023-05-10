@@ -3,12 +3,34 @@
     <title>mang iki blog</title>
     <link href="http://mangkiki.my.id/feed.xml" rel="self" />
     <link href="http://mangkiki.my.id" />
-    <updated>2023-05-10T15:57:08+07:00</updated>
+    <updated>2023-05-10T16:02:16+07:00</updated>
     <author>
         <name>mang iki</name>
     </author>
     <id>http://mangkiki.my.id</id>
 
+    <entry>
+        <title>artikel baru lagi</title>
+        <author>
+            <name>mang iki</name>
+        </author>
+        <link href="http://mangkiki.my.id/artikel-baru-lagi.html"/>
+        <id>http://mangkiki.my.id/artikel-baru-lagi.html</id>
+
+        <updated>2023-05-10T16:02:16+07:00</updated>
+            <summary>
+                <![CDATA[
+                    artikel baru
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="http://mangkiki.my.id/media/posts/5/addidas.jpeg" alt="" width="148" height="148" sizes="100vw" srcset="http://mangkiki.my.id/media/posts/5/responsive/addidas-xs.jpeg 300w ,http://mangkiki.my.id/media/posts/5/responsive/addidas-sm.jpeg 480w ,http://mangkiki.my.id/media/posts/5/responsive/addidas-md.jpeg 768w ,http://mangkiki.my.id/media/posts/5/responsive/addidas-lg.jpeg 1024w ,http://mangkiki.my.id/media/posts/5/responsive/addidas-xl.jpeg 1360w ,http://mangkiki.my.id/media/posts/5/responsive/addidas-2xl.jpeg 1600w"></figure>
+<p> </p>
+<p>artikel baru</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>artikel baru</title>
         <author>

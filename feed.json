@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "http://mangkiki.my.id/artikel-baru-lagi.html",
+            "url": "http://mangkiki.my.id/artikel-baru-lagi.html",
+            "title": "artikel baru lagi",
+            "summary": "artikel baru",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"http://mangkiki.my.id/media/posts/5/addidas.jpeg\" alt=\"\" width=\"148\" height=\"148\" sizes=\"100vw\" srcset=\"http://mangkiki.my.id/media/posts/5/responsive/addidas-xs.jpeg 300w ,http://mangkiki.my.id/media/posts/5/responsive/addidas-sm.jpeg 480w ,http://mangkiki.my.id/media/posts/5/responsive/addidas-md.jpeg 768w ,http://mangkiki.my.id/media/posts/5/responsive/addidas-lg.jpeg 1024w ,http://mangkiki.my.id/media/posts/5/responsive/addidas-xl.jpeg 1360w ,http://mangkiki.my.id/media/posts/5/responsive/addidas-2xl.jpeg 1600w\"></figure>\n<p> </p>\n<p>artikel baru</p>",
+            "author": {
+                "name": "mang iki"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-10T16:02:16+07:00",
+            "date_modified": "2023-05-10T16:02:16+07:00"
+        },
+        {
             "id": "http://mangkiki.my.id/artikel-baru.html",
             "url": "http://mangkiki.my.id/artikel-baru.html",
             "title": "artikel baru",
