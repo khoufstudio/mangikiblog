@@ -3,12 +3,32 @@
     <title>mang iki blog</title>
     <link href="https://khoufstudio.github.io/mangikiblog/feed.xml" rel="self" />
     <link href="https://khoufstudio.github.io/mangikiblog" />
-    <updated>2023-05-04T10:26:18+07:00</updated>
+    <updated>2023-05-10T15:57:08+07:00</updated>
     <author>
         <name>mang iki</name>
     </author>
     <id>https://khoufstudio.github.io/mangikiblog</id>
 
+    <entry>
+        <title>artikel baru</title>
+        <author>
+            <name>mang iki</name>
+        </author>
+        <link href="https://khoufstudio.github.io/mangikiblog/artikel-baru.html"/>
+        <id>https://khoufstudio.github.io/mangikiblog/artikel-baru.html</id>
+
+        <updated>2023-05-10T15:57:08+07:00</updated>
+            <summary>
+                <![CDATA[
+                    artikel baru
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>artikel baru</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>test</title>
         <author>
