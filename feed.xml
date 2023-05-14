@@ -3,12 +3,32 @@
     <title>mang iki blog</title>
     <link href="https://mangkiki.my.id/feed.xml" rel="self" />
     <link href="https://mangkiki.my.id" />
-    <updated>2023-05-10T16:02:16+07:00</updated>
+    <updated>2023-05-14T15:56:06+07:00</updated>
     <author>
         <name>mang iki</name>
     </author>
     <id>https://mangkiki.my.id</id>
 
+    <entry>
+        <title>coba artikel</title>
+        <author>
+            <name>mang iki</name>
+        </author>
+        <link href="https://mangkiki.my.id/coba-artikel.html"/>
+        <id>https://mangkiki.my.id/coba-artikel.html</id>
+
+        <updated>2023-05-14T15:56:06+07:00</updated>
+            <summary>
+                <![CDATA[
+                    sdfdsfdsf dsfdsf
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>sdfdsfdsf dsfdsf</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>artikel baru lagi</title>
         <author>

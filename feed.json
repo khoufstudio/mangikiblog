@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://mangkiki.my.id/coba-artikel.html",
+            "url": "https://mangkiki.my.id/coba-artikel.html",
+            "title": "coba artikel",
+            "summary": "sdfdsfdsf dsfdsf",
+            "content_html": "<p>sdfdsfdsf dsfdsf</p>",
+            "author": {
+                "name": "mang iki"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-14T15:56:06+07:00",
+            "date_modified": "2023-05-14T15:56:06+07:00"
+        },
+        {
             "id": "https://mangkiki.my.id/artikel-baru-lagi.html",
             "url": "https://mangkiki.my.id/artikel-baru-lagi.html",
             "title": "artikel baru lagi",
